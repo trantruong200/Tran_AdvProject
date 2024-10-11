@@ -17,3 +17,6 @@ The dataset ([mydataset.csv](mydataset.csv)) contains the following columns:
 ## Report
 
 The full analysis report is available in [Ass3.html](Ass3.html).
+
+## Github Pages URL
+[index.html](index.html)
